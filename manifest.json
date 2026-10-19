@@ -1,0 +1,15 @@
+{
+  "name": "파닉스 광산 - Phonics Mine",
+  "short_name": "파닉스광산",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b1d0e",
+  "theme_color": "#2b1d0e",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
